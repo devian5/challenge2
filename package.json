@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devian5/challenge2/issues"
   },
-  "homepage": "https://github.com/devian5/challenge2#readme"
+  "homepage": "https://github.com/devian5/challenge2#readme",
+  "dependencies": {
+    "mongoose": "^5.11.17"
+  }
 }
